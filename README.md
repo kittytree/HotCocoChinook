@@ -22,8 +22,4 @@ Project Title is released under the GNU License. See the **[LICENSE](https://git
 
 ## **Authors and Acknowledgment**
 
-Project Title was created by **[kittytree](https://github.com/kittytree)**.
-
-Acknowledgement:
-
-- **[.SQL is from](https://github.com/lerocha/chinook-database/tree/master)**
+- .SQL is from https://github.com/lerocha/chinook-database/tree/master
